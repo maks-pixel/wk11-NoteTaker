@@ -1,6 +1,14 @@
-[
+{
+  "notes": [
     {
-        "title":"Test Title",
-        "text":"Test text"
+      "title": "Test Title",
+      "text": "Test text",
+      "id": "1"
+    },
+    {
+      "title": "money",
+      "text": "money",
+      "id": "24f2e99c-ee36-4393-b920-ace30f8ea59e"
     }
-]
+  ]
+}
