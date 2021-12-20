@@ -3,8 +3,8 @@
  ## Description
  
  This application allows for the user to create notes that is saved to a list on the page, and can be viewed at any time.
- [screenshotOne.png](public/assets/images/screenshotOne.png) 
- [screenshotTwo.png](public/assets/images/screenshotTwo.png)
+ [screenshotOne.png](./public/assets/images/screenshotOne.png) 
+ [screenshotTwo.png](./public/assets/images/screenshotTwo.png)
 
  ## Table of Contents
  * [Installation](#Installation)
