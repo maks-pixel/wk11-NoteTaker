@@ -18,7 +18,11 @@
   ```
   npm install
   ```
- any npm packages and then npm start to run the server. Then you can visit 
+ any npm packages and then 
+  ```
+  npm start
+  ```
+ to run the server. Then you can visit 
   ```
   localhost:3001
   ```
